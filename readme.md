@@ -42,7 +42,7 @@ This website is a personal project and is not currently open to contributions. H
 [gpages]:       https://github.com/dariustb/SongLinktree/actions/workflows/pages/pages-build-deployment/badge.svg
 [gpages-url]:   https://github.com/dariustb/SongLinktree/actions/workflows/pages/pages-build-deployment
 
-[netlifystat]:  https://api.netlify.com/api/v1/badges/d7c0bc03-a588-4a9f-a4fb-062a6a725386/deploy-status)
+[netlifystat]:  https://api.netlify.com/api/v1/badges/d7c0bc03-a588-4a9f-a4fb-062a6a725386/deploy-status
 [netlifystat-url]: https://app.netlify.com/sites/thebizkid/deploys
 
 <!-- Markdown Badges -->
