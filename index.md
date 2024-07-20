@@ -23,6 +23,7 @@ permalink: /
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="/assets/css/tailwind.css" rel="stylesheet">
 
 
@@ -135,7 +136,7 @@ permalink: /
 
     <!-- Necessary script calls to make site work -->
     <script>
-    
+        AOS.init();
     </script>
 
 </body>
