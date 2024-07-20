@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# NPM / Tailwind stuff
+node_modules/
+package-lock.json
+package.json
+tailwind.config.js
