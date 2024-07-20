@@ -7,7 +7,7 @@
 <br />
 <div align="center" id="readme-top">
   <a href="https://github.com/dariustb/SongLinktree">
-    <img src="TODO" alt="SongLinktree Logo" height="150">
+    <img src="assets/images/WorkedUp/WorkedUpArt_794x1123.png" alt="SongLinktree Logo" width="150">
   </a>
 
   <h1 align="center">Song Linktree</h1>
