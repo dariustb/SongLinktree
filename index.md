@@ -102,21 +102,21 @@ permalink: /
 
         <!-- Youtube -->
         <a href="https://youtu.be/vHVLcIrz9HQ?si=Il4voMD4NBXgRUut">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] data-aos="fade-up"">
+            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Youtube</h2>
             </div>
         </a>
 
         <!-- Soundcloud -->
         <a href="https://soundcloud.com/thebizkid/worked-up?si=6d7de5dc912d4a48b75aba0f198fcbd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] data-aos="fade-up"">
+            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Soundcloud</h2>
             </div>
         </a>
 
         <!-- Bandcamp -->
         <a href="https://thebizkid.bandcamp.com/track/worked-up">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] data-aos="fade-up"">
+            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Bandcamp</h2>
             </div>
         </a>
@@ -135,6 +135,7 @@ permalink: /
     </section>
 
     <!-- Necessary script calls to make site work -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
         AOS.init();
     </script>
