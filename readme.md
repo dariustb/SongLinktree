@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
 ![GitHub repo size][repo-size]
-[![Github Pages Status][gpages]][gpages-url]
+<!-- [![Github Pages Status][gpages]][gpages-url] -->
 [![Netlify Status][netlifystat]][netlifystat-url]
 
 <!-- PROJECT LOGO -->
