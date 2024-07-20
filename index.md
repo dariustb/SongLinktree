@@ -129,7 +129,7 @@ permalink: /
 
         <div class="bg-sl-darkblue h-px w-full"></div>
 
-        <p class="text-sm font-roboto italic my-8">Page designed & developed <br> by Darius Brown. <a href="#" class="underline text-sl-darkblue">View GitHub Repo</a></p> 
+        <p class="text-sm font-roboto italic my-8">Page designed & developed <br> by Darius Brown. <a href="https://github.com/dariustb/SongLinktree" class="underline text-sl-darkblue">View GitHub Repo</a></p> 
     
     </section>
 
