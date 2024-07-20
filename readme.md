@@ -7,7 +7,7 @@
 <br />
 <div align="center" id="readme-top">
   <a href="https://github.com/dariustb/SongLinktree">
-    <img src="assets/images/WorkedUp/WorkedUpArt_794x1123.png" alt="SongLinktree Logo" width="150">
+    <img src="assets/images/worked-up/WorkedUpArt_794x1123.png" alt="SongLinktree Logo" width="150">
   </a>
 
   <h1 align="center">Song Linktree</h1>
@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-TODO
+I was using the site hearnow.com to show the releases, but it's not showing any of the platforms that the song is on. Solving the problem myself.
 
 ### Built With
 * ![Jekyll][jekyll.io]
@@ -42,8 +42,8 @@ This website is a personal project and is not currently open to contributions. H
 [gpages]:       https://github.com/dariustb/SongLinktree/actions/workflows/pages/pages-build-deployment/badge.svg
 [gpages-url]:   https://github.com/dariustb/SongLinktree/actions/workflows/pages/pages-build-deployment
 
-[netlifystat]:     TODO
-[netlifystat-url]: TODO
+[netlifystat]:  https://api.netlify.com/api/v1/badges/d7c0bc03-a588-4a9f-a4fb-062a6a725386/deploy-status)](
+[netlifystat-url]: https://app.netlify.com/sites/thebizkid/deploys
 
 <!-- Markdown Badges -->
 [repo-size]:    https://img.shields.io/github/repo-size/dariustb/SongLinktree
