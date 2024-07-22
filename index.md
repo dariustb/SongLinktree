@@ -41,23 +41,28 @@ permalink: /
 
     <!-- Cover Hero Section -->
     <section>
-    
-        <div class="relative w-screen" style="height: 100vw;">
 
-            <!-- Blurred banner Image -->
+    <!-- Flex div to center cover -->
+    <div class="flex items-center justify-center">
+
+        <!-- Banner container -->
+        <div class="relative w-screen md:h-96" style="">
+
+            <!-- Blurred banner image -->        
             <img class="object-cover w-full h-full blur-sm" 
                  src="assets/images/worked-up/WorkedUpCrop_709x1038.png" 
                  alt="Worked Up banner image" />
 
             <!-- Album Cover -->
-            <div class="absolute top-0 left-0 m-8 drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]">
-                <img class="object-cover w-auto" 
+            <div class="absolute left-0 top-0 m-8 drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:h-80 md:inset-0 md:flex md:items-center md:justify-center" data-aos="fade-right">
+                <img class="object-cover w-auto md:h-full" 
                      src="assets/images/worked-up/WorkedUpCover_3000x3000.png" 
                      alt="Worked Up album cover" />
             </div>
     
         </div>
     
+    </div>
     </section>
 
     <!-- Music Player Section -->
@@ -79,48 +84,52 @@ permalink: /
     
         <h2 class="text-xl font-bold italic mt-4"><b>Stream now:</b></h2>
 
+        <div>
+
         <!-- Spotify -->
         <a href="https://open.spotify.com/track/419WEVULjmEInAtYh4W1xY?si=47cd864d64c44607">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Spotify</h2>
             </div>
         </a>
 
         <!-- Apple Music -->
         <a href="https://music.apple.com/us/album/worked-up-feat-nariah-taylor/1758385676?i=1758385677">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Apple Music</h2>
             </div>
         </a>
 
         <!-- Tidal -->
         <a href="https://tidal.com/browse/album/376194217">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Tidal</h2>
             </div>
         </a>
 
         <!-- Youtube -->
         <a href="https://youtu.be/vHVLcIrz9HQ?si=Il4voMD4NBXgRUut">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Youtube</h2>
             </div>
         </a>
 
         <!-- Soundcloud -->
         <a href="https://soundcloud.com/thebizkid/worked-up?si=6d7de5dc912d4a48b75aba0f198fcbd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Soundcloud</h2>
             </div>
         </a>
 
         <!-- Bandcamp -->
         <a href="https://thebizkid.bandcamp.com/track/worked-up">
-            <div class="rounded-full mx-8 my-8 h-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]" data-aos="fade-up">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Bandcamp</h2>
             </div>
         </a>
-    
+
+        </div>
+
     </section>
 
     <!-- Footer  -->
