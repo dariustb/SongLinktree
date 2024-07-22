@@ -44,7 +44,7 @@ permalink: /
     <div class="flex items-center justify-center">
 
         <!-- Banner container -->
-        <div class="relative w-screen md:h-96" style="">
+        <div class="relative w-screen h-[100vw] md:h-96">
 
             <!-- Blurred banner image -->        
             <img class="object-cover w-full h-full blur-sm" 

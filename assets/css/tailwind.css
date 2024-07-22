@@ -664,6 +664,14 @@ video {
   height: 1px;
 }
 
+.h-\[\]{
+  height: ;
+}
+
+.h-\[100vw\]{
+  height: 100vw;
+}
+
 .w-auto{
   width: auto;
 }
