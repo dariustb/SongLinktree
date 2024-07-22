@@ -1,7 +1,5 @@
 ---
 # Worked Up! release page as index
-
-layout:    default
 Title:     Worked Up!
 permalink: /
 ---
