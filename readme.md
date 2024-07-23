@@ -6,11 +6,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" id="readme-top">
-  <a href="https://github.com/dariustb/SongLinktree">
-    <img src="assets/images/worked-up/WorkedUpArt_794x1123.png" alt="SongLinktree Logo" width="150">
-  </a>
 
   <h1 align="center">Song Linktree</h1>
+
+<!-- PROJECT DEMO-->
+https://github.com/user-attachments/assets/dbd38ba7-2f2d-41f7-8c4a-38586403af72
 
   <p align="center">
     Jekyll Linktree site to provide quicklinks for new released music
