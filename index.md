@@ -86,49 +86,49 @@ permalink: /
 
         <!-- Spotify -->
         <a href="https://open.spotify.com/track/419WEVULjmEInAtYh4W1xY?si=47cd864d64c44607">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="100" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="100" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Spotify</h2>
             </div>
         </a>
 
         <!-- Apple Music -->
         <a href="https://music.apple.com/us/album/worked-up-feat-nariah-taylor/1758385676?i=1758385677">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="150" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="150" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Apple Music</h2>
             </div>
         </a>
 
         <!-- Tidal -->
         <a href="https://tidal.com/browse/album/376194217">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="200" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="200" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Tidal</h2>
             </div>
         </a>
 
         <!-- Youtube -->
         <a href="https://youtu.be/vHVLcIrz9HQ?si=Il4voMD4NBXgRUut">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="250" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="250" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Youtube</h2>
             </div>
         </a>
 
         <!-- Amazon Music -->
         <a href="https://amazon.com/music/player/albums/B0D9R4DCRM?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_lADq9JWga8gQEamiP9IWgYSgu">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="300" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="300" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Amazon Music</h2>
             </div>
         </a>
 
         <!-- Soundcloud -->
         <a href="https://soundcloud.com/thebizkid/worked-up?si=6d7de5dc912d4a48b75aba0f198fcbd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="350" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="350" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Soundcloud</h2>
             </div>
         </a>
 
         <!-- Bandcamp -->
         <a href="https://thebizkid.bandcamp.com/track/worked-up">
-            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="400" data-aos-anchor-placement="top-bottom">
+            <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto" data-aos="fade-up" data-aos-delay="400" data-aos-anchor-placement="top-bottom">
                 <h2 class="text-xl text-white font-bold italic flex items-center justify-center">Bandcamp</h2>
             </div>
         </a>
