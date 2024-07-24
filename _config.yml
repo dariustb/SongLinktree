@@ -29,6 +29,9 @@ url:     "" # the base hostname & protocol for your site, e.g. http://example.co
 instagram:     https://instagram.com/sleepyheadbrown/
 instagram-biz: https://instagram.com/thebizkid/
 github:        https://github.com/dariustb/
+repo:          https://github.com/dariustb/SongLinktree
+
+artist:        The Bizkid
 
 # Build settings
 include: ['_pages']

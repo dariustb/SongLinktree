@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<main class="bg-sl-bgcolor text-sl-black text-center">
+    <!-- Cover Hero Section -->
+    <section>
+
+    <!-- Flex div to center cover -->
+    <div class="flex items-center justify-center">
+
+        <!-- Banner container -->
+        <div class="relative w-screen h-[100vw] md:h-96">
+
+            <!-- Blurred banner image -->        
+            <img class="object-cover w-full h-full blur-sm" 
+                    src="{{ page.album-banner }}" 
+                    alt="{{ page.title }} banner image" />
+
+            <!-- Album Cover -->
+            <div class="absolute left-0 top-0 m-8 drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:h-80 md:inset-0 md:flex md:items-center md:justify-center"
+                 data-aos="fade-right" data-aos-delay="50">
+                <img class="object-cover w-auto md:h-full" 
+                        src="{{ page.album-cover }}" 
+                        alt="{{ page.title }} album cover" />
+            </div>
+    
+        </div>
+    
+    </div>
+    </section>
+
+    <!-- Music Player Section -->
+    <!-- TODO: Implement Player functionalities -->
+    <section>
+        <div class="my-1 w-full h-3 bg-sl-liteblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)]"></div>
+    </section>
+
+    <!-- Song Info Section -->
+    <section>
+        <h1 class="text-6xl font-roboto font-bold mt-8">{{ page.title }}</h1>
+        <h2 class="text-xl font-lora italic my-4">by <b>{{ site.artist }}</b></h2>
+    </section>
+    
+    <hr>
+
+    <!-- Links Section -->
+    <section class="font-roboto">
+    
+        <h2 class="text-xl font-bold italic mt-4"><b>Stream now:</b></h2>
+
+        <div>
+            {% if page.platforms %}
+            {% for platform in page.platforms %}
+            <a href="{{ platform.link }}">
+                <div class="rounded-full h-8 mx-8 my-8 bg-sl-black hover:bg-sl-darkblue drop-shadow-[0_0px_4px_rgba(0,0,0,0.25)] md:w-1/2 md:mx-auto"
+                     data-aos="fade-up" data-aos-delay="{{ platform.stag }}" data-aos-anchor-placement="top-bottom">
+                    <h2 class="text-xl text-white font-bold italic flex items-center justify-center">{{ platform.name }}</h2>
+                </div>
+            </a>
+            {% endfor %}
+            {% endif %}
+        </div>
+
+        <p class="text-lg font-lora text-sl-darkblue italic mb-4">Released {{ page.release-date }}</p>
+
+    </section>
+
+    <!-- Footer -->
+    {% include footer.html %}
+    
+</main>
