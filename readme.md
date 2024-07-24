@@ -5,12 +5,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center" id="readme-top">
+<div align="center">
 
   <h1 align="center">Song Linktree</h1>
 
 <!-- PROJECT DEMO-->
-https://github.com/user-attachments/assets/dbd38ba7-2f2d-41f7-8c4a-38586403af72
+
 
   <p align="center">
     Jekyll Linktree site to provide quicklinks for new released music
@@ -26,7 +26,20 @@ https://github.com/user-attachments/assets/dbd38ba7-2f2d-41f7-8c4a-38586403af72
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-I was using the site hearnow.com to show the releases, but it's not showing any of the platforms that the song is on. Solving the problem myself.
+### Background 😠
+I purchased the service of HearNow.com to create and host a webpage that showcases my newly released song and offer weblinks to all of the streaming platforms that play the music. This way my audience can find the song easily by going to this page that I'd provide on social media.
+
+HearNow didn't provide the links to the streaming platforms for my audience.
+![HearNow Desktop](assets/images/readme/Demo_HearNow_Desktop.png)
+![HearNow Mobile](assets/images/readme/Demo_HearNow_Mobile.png)
+
+After the first day of HearNow failing to deliver, I decided to create my own page to solve the immediate problem for listeners and fans alike.
+
+### Features ✨
+This is a simply designed site whose goal is to provide links to the public, and it delivered on that.
+![SongLinkTree Desktop/Mobile](assets/images/readme/Demo_SongLinktree.gif)
+
+This page has viewport-responsive design to allow ease of use in both mobile and desktop environments. Buttons that signify press with mobile and highlight on hover with desktop. Links are provided for the top 7 applications that I could forsee my audience using.
 
 ### Built With
 * ![Jekyll][jekyll.io]
